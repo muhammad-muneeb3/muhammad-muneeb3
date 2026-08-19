@@ -62,7 +62,7 @@
 # 📊 GitHub Stats
 
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=muhammad-muneeb3&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=muhammad-muneeb3&theme=dark&hide_border=false&v=20260819)](https://git.io/streak-stats)
 
 
 ---
