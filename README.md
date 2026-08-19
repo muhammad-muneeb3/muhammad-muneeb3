@@ -61,11 +61,9 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=muhammad-muneeb3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=muhammad-muneeb3&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.vercel.app?user=muhammad-muneeb3&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammad-muneeb3&theme=dark&hide_border=false&layout=compact)
 
 ---
 
