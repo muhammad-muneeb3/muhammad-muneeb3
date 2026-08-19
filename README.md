@@ -67,9 +67,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=muhammad-muneeb3&theme=algolia&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=muhammad-muneeb3&theme=algolia&no-frame=true&margin-w=10) -->
 
 ---
 
