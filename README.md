@@ -65,19 +65,19 @@
 [![GitHub Streak](https://streak-stats.vercel.app?user=muhammad-muneeb3&theme=dark&hide_border=false&v=20260819)](https://git.io/streak-stats)
 
 
----
+<!-- --- -->
 
 <!-- ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=muhammad-muneeb3&theme=algolia&no-frame=true&margin-w=10) -->
 
----
+<!-- --- -->
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-muneeb3&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-muneeb3&theme=github-compact) -->
 
----
+<!-- --- -->
 
 ## ✍️ Random Dev Quote
 
